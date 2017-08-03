@@ -1,0 +1,26 @@
+{
+
+"title": "nodejs",
+
+"isbn" : 6758,
+
+"author": "helly",
+
+"genre": "node",
+
+"publication": 
+	{
+	
+	"publicationdate":10-7-2008,
+	
+	"publisher": "isabel"
+	},
+	
+"copies": {
+	
+	"edition": 9,
+	
+	"availability": "yes"
+}
+
+}

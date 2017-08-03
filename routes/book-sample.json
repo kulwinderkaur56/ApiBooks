@@ -1,0 +1,15 @@
+{
+  "title": "Node.js in Action",
+  "isbn": 89890,
+  "author": "Nathan Rajlich",
+  "genre": "Node",
+  "publication":{
+		"dateofpublication":"2-12-2014",
+		"publisher":"Node Plublisher"
+  },
+  "copies": {
+         "edition": 2,
+         "quantity": 10,
+         "availability":"yes"
+  }
+}
